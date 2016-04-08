@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epigrammatumant02couggoog/epigrammatumant02couggoog_0008.png"; bbox 0 0 3818 6012; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 652 1947 1309 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 652 1947 1309 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 652 1947 1309 2104; baseline 0.003 -6"><span class='ocrx_word' id='word_1_1' title='bbox 652 1947 1309 2104; x_wconf 83' lang='lat' dir='ltr'><strong>EPIGRAMMATUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 2275 1689 2484">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 2275 1689 2484">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 2275 1689 2484; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 130 2275 1021 2484; x_wconf 73' lang='lat' dir='ltr'><strong>ANTHOLOGIA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1072 2279 1689 2484; x_wconf 77' lang='lat' dir='ltr'><strong>PALATINA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 875 2689 1052 2714">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 875 2689 1052 2714">
+     <span class='ocr_line' id='line_1_3' title="bbox 875 2689 1052 2714; baseline -0.006 -5"><span class='ocrx_word' id='word_1_4' title='bbox 875 2689 1052 2714; x_wconf 50' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 743 2985 1195 3048">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 743 2985 1195 3048">
+     <span class='ocr_line' id='line_1_4' title="bbox 743 2985 1195 3048; baseline 0.004 -2"><span class='ocrx_word' id='word_1_5' title='bbox 743 2985 956 3047; x_wconf 85' lang='lat' dir='ltr'><strong>VOLUMEN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 982 2987 1195 3048; x_wconf 83' lang='lat' dir='ltr'><strong>TERTIUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1914 6004">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1914 6004">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1914 6004; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1914 6004; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
